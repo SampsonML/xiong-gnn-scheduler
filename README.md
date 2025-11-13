@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> This repository is made with the publicly available supplementary material supplied in Learning to Schedule Learning rate with Graph Neural Networks by Xiong+21. 
+> [Paper]([https://docs.astral.sh/uv/#projects](https://openreview.net/forum?id=k7efTb0un9z)) see the paper on OpenReview here.
+
 # Learning to Schedule Learning Rate with Graph Neural Networks
 
 This repository is the official implementation of Learning to Schedule Learning Rate with Graph Neural Networks. 
